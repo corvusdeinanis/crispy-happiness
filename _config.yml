@@ -1,6 +1,6 @@
-title: My Bonsai
-description: "A jeyll template for semantically inclined digital gardeners."
-url: "my-bonsai.com"
+title: Romblings 3.0 
+description: "Astro's Digital Garden"
+url: "https://super-palmier-8cd3c5.netlify.app/"
 #baseurl: ""
 
 theme: jekyll-bonsai
@@ -59,10 +59,6 @@ defaults:
       layout: "state"
       permalink: "/stat/:id/"
 
-# plugins
-
-# Google Analytics (ip is anonymized by default)
-ga_tracking: UA-190413040-3
 
 namespaces:
   exclude:
@@ -72,7 +68,7 @@ namespaces:
     - "states"
 
 bonsai:
-  default_theme: "light"
+  default_theme: "dark"
   nav:
     type: "graph"
     graph:
@@ -88,7 +84,7 @@ social:
   connect:
     enabled: false
   share:
-    enabled: true
+    enabled: false
     type:
       - 'email'
       - 'facebook'
