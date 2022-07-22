@@ -8,3 +8,5 @@ status: 🌱
 
 🪴  Welcome to my digital garden!
 
+
+[[index.md]]
